@@ -10,6 +10,6 @@
     * and more
    
 ## A description of the target audience
-> For anyone who is learning or skimming to find more information on some basic networking concepts or even beginners who are looking to dive in networking are welcomed to learning how data travels through the internet
+> For anyone who is learning or skimming to find more information on some basic networking concepts or even beginners who are looking to dive into networking, are welcomed to learn how data travels through the internet
 > and how people can communicate at an international level through a piece of technology or wire.
 
