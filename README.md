@@ -1,7 +1,7 @@
 # 1610-FinalProject
 
 ## Title of the Tutorial: 
-TCP/IP and (OSI Models)[OSI_Model] and How they Apply to Networking.
+TCP/IP and (OSI Models)[OSI_Model.md] and How they Apply to Networking.
 
 ### The author of the tutorial: 
 Sebantu Mukanya
