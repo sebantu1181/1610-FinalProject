@@ -30,8 +30,8 @@ OSI model is known for defining how different applications communicate over conn
   * WAN (Wide Area Network)
   * etc.
 
-  | What is LAN?   | What is MAN? | What is WAN? | 
-  |---------------------------------|:---------------------------:|:-------------------------------------------------|
+  | What is Local Area Network (LAN)?   | What is Metropolitan Area Network (MAN)? | What is Wide Area Network (WAN)? | 
+  |-------------------------------------|:----------------------------------------:|:---------------------------------|
   | LAN network connects multiple or a group of network connected | electronics with a limited | MAN network connects small regeons | WAN network connects devices over large distance |
 
 
