@@ -6,6 +6,7 @@ Open System Interconnection Model known as OSI Model is a major protocol model t
 
 
 
+
 ## The 7 Layers of OSI Model: 
 
 
@@ -50,7 +51,7 @@ What is Wide Area Network (WAN)?
 Deals with Bits and Bytes
 
 ### Layer 1: Physical Layer
-Deals with Cables and Wires
-
+The physical layer is the first and lowest level of the OSI model, and it deals with the physical connection between devices. It defines hardware components such as cables, wires, connectors, and so on. 
+The information is stored in bits (1s and 0s) and is transferred between devices via the node, which is a physical electronic device that is connected to a network.
 
 
