@@ -1,3 +1,4 @@
+# What is OSI Model 
 Open System Interconnection Model known as OSI Model is a major protocol model that describes various forms of network communication.
 OSI model is known for defining how different applications communicate over connected networks
 * Including: 
