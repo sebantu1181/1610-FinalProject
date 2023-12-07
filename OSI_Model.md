@@ -10,7 +10,7 @@ Open System Interconnection Model known as OSI Model is a major protocol model t
 
 
 ### Layer 7: Application Layer
-Responsible for displaying data to receiver
+Responsible for user interface
 
 ### Layer 6: Presentation Layer
 Responsible for the receiver understands sent data 
@@ -51,3 +51,6 @@ Deals with Bits and Bytes
 
 ### Layer 1: Physical Layer
 Deals with Cables and Wires
+
+
+
