@@ -1,5 +1,7 @@
 # What is The OSI Model 
-Open System Interconnection Model known as OSI Model is a major protocol model that describes various forms of network communication.
+Open System Interconnection Model known as OSI Model is a major protocol model that describes various forms of network system or communication.
+
+
 
 
 
@@ -7,8 +9,8 @@ Open System Interconnection Model known as OSI Model is a major protocol model t
 ## The 7 Layers of OSI Model: 
 
 
- ### Layer 7: Application Layer
- Responsible for displaying data to receiver
+### Layer 7: Application Layer
+Responsible for displaying data to receiver
 
 ### Layer 6: Presentation Layer
 Responsible for the receiver understands sent data 
@@ -27,6 +29,12 @@ OSI model is known for defining how different applications communicate over conn
   * MAN (Metropolitan Area Network)
   * WAN (Wide Area Network)
   * etc.
+
+| What is | 
+|---------|
+
+
+
 
 #### What is Local Area Network (LAN)?
 LAN network connects multiple or a group of network connected electronics with a limited range or local area such as coffee shop, library, school, etc.
