@@ -67,7 +67,8 @@ Its functions involves deciding how physical connections to the network are esta
   * Physical layer manages signals that represent the bits.
   * These can be electrical voltages, light pulses, or radio signals
   * The modulation technique is used to encode bits into signals
-* Transmission modes: Defines how data is transmitted between devices. Common nodes include:
+* Transmission modes: Defines
+  how data is transmitted between devices. Common nodes include:
   * simplex: one-way communication
   * Half-duplex: two-way communication, but not simultaneous
   * Full-duplex: two-way and simultaneous communication  
