@@ -37,9 +37,9 @@ OSI model is known for defining how different applications communicate over conn
 
 
 
-#### What is Local Area Network (LAN)?
-LAN network connects multiple or a group of network connected electronics with a limited range or local area such as coffee shop, library, school, etc.
-This network is mainly utilized for sharing hardware resources including computers, printers, television, and more. LAN is relatively higher with data transfer speed in comparison to MAN and WAN and it uses private network addresses for connectivity and data exchange, it uses cable for network connection, decreasing error and maintaining data security.
+What is Local Area Network (LAN)?
+> LAN network connects multiple or a group of network connected electronics with a limited range or local area such as coffee shop, library, school, etc.
+> This network is mainly utilized for sharing hardware resources including computers, printers, television, and more. LAN is relatively higher with data transfer speed in comparison to MAN and WAN and it uses private network addresses for connectivity and data exchange, it uses cable for network connection, decreasing error and maintaining data security.
 
 #### What is Metropolitan Area Network (MAN)?
 MAN network connects small regions such as cities or towns. This network is larger than LAN but smaller than WAN. 
