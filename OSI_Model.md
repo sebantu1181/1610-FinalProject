@@ -1,7 +1,7 @@
 # What is The OSI Model 
 Open System Interconnection Model known as OSI Model is a major protocol model that describes various forms of network system or communication.
-
-
+The OSI model consists of seven layers that display how data is sent and received across a network. 
+The primary goal is to demonstrate how the various layers of communications are layered over one another, starting with physical cabling and concluding with the application that interacts with users or other devices on a network. 
 
 
 
