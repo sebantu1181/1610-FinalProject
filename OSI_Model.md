@@ -55,3 +55,37 @@ The physical layer is the first and lowest level of the OSI model, and it deals 
 The information is stored in bits (1s and 0s) and is transferred between devices via the node, which is a physical electronic device that is connected to a network.
 
 
+#### Functions of the Physical Layer
+
+The physical layer is in charge of transferring computer bits from one device to another across the network. 
+Its functions involves deciding how physical connections to the network are established, along with how bits are transformed into signals that are transmitted either electrically, optically, or via radio signals.
+
+Bits: 
+ * Data is transmitted in the form of raw bits (0s, and 1s)
+ * It defines how these are encoded, transmitted, and received over physical hardware 
+Signal:
+ * Physical layer manages signals that represent the bits.
+ * These can be electrical voltages, light pulses, or radio signals
+ * The modulation technique is used to encode bits into signals
+Transmission modes: 
+  * Defines how data is transmitted between devices. Common nodes include:
+    * simplex: one-way communication
+    * Half-duplex: two-way communication, but not simultaneous
+    * Full-duplex: two-way and simultaneous communication  
+and more (Data synthronization, interface, configuration, modulation, switching mechanism)
+
+
+#### Physical Topology
+
+Physical layer deals with physical arragement of devices in a network, known as network topology. 
+common topogies include:
+ * Bus topology
+ * Mesh topology
+ * Star topology
+ * Ring topology
+
+
+
+
+
+
