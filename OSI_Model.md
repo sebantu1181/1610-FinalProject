@@ -32,17 +32,17 @@ OSI model is known for defining how different applications communicate over conn
 
 
 What is Local Area Network (LAN)?
-> LAN network connects multiple or a group of network connected electronics with a limited range or local area such as coffee shop, library, school, etc.
-> This network is mainly utilized for sharing hardware resources including computers, printers, television, and more. LAN is relatively higher with data transfer speed in comparison to MAN and WAN and it uses private network addresses for connectivity and data exchange, it uses cable for network connection, decreasing error and maintaining data security.
+> A local area network (LAN) connects multiple or a group of network-connected devices with a limited range or localized region, such as a coffee shop, library, or school. 
+> This network is mostly used for sharing hardware resources such as computers, printers, televisions, and other devices. In comparison to MAN and WAN, LAN has a greater data transmission speed and implements private network addresses for connectivity and data exchange. It also uses cable for network connection, which reduces mistake and maintains data security.
 
 What is Metropolitan Area Network (MAN)?
-> MAN network connects small regions such as cities or towns. This network is larger than LAN but smaller than WAN. 
-> MAN can be used to connect multiple LAN networks to create the metropolitan range, for example MAN network can connect all the branches of a company that exist in the same city. 
-> The network connected area is usually connected using wired network, like optical cables and connections.
+> A metropolitan area network connects small areas or regions like cities or towns. This network is larger than a LAN but not as large as a WAN. 
+> MAN can be used to connect numerous LAN networks to form a metropolitan range; for example, a MAN network can connect all of a company's branches in the same city. 
+> The networked region is typically connected by wired networks, such as optical cables and connections.
 
 What is Wide Area Network (WAN)?
-> WAN network connects devices over large distance such as state, country, or continent. WAN network is larger than LAN and MAN network, the connection is wireless in most cases because it uses radio tower > for communication and the geographical area is usually made up of multiple interconnected LAN and MAN networks. 
-> The speed of the WAN data transfer is lower than in comparison to LAN and MAN due to the large distance covered.
+> A WAN connects devices across extensive areas such as a state, country, or continent. The WAN network is larger than the LAN and MAN networks, its connection is usually wireless since it uses radio towers for communication, and the geographical area is usually made up of multiple interconnected LAN and MAN networks. 
+> Because of the large distance covered, the speed of WAN data transfer is slower than that of LAN and MAN.
 
 
 
