@@ -42,8 +42,10 @@ Network Virtual Terminal:
    - The Application Layer provides a network virtual terminal, which allows devices to log into other devices on the network and remotely execute commands.
 
 
-
+<details>
+   <summary>Appllication Laayer protocols</summary>
 #### Key Protocols
+
 | Protocols |
 |:---------------- |
 | > HTTP/HTTPS(Hypertext Transfer Protocol/Secure) |
@@ -53,7 +55,7 @@ Network Virtual Terminal:
 | > FTP(File Transfer Protocol) |
 | > DNS(Domain Name System) |
 
-
+</details>
 
 
 #### Summary
