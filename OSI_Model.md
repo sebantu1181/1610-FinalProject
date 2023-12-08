@@ -254,6 +254,10 @@ Understanding the fundamentals of logical addressing, routing, and packet forwar
 
 
 <br></br>
+
+> [!TIP]
+> [RETURN TOP](#what-is-the-osi-model)
+
 <br></br>
 
 
@@ -348,7 +352,7 @@ common topogies include:
 The Physical layer outlines the framework for network connection by handling the physical aspects of data transmission, from translating digital signals to controlling the actual transfer across the specified hardware.
 
 
-> [!NOTE]
+> [!TIP]
 > [RETURN TOP](#what-is-the-osi-model)
 
 
