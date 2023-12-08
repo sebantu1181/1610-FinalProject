@@ -1,4 +1,4 @@
-# How is TCP/IP different than OSI?
+# How is TCP/IP different from OSI?
 
 
 | OSI Model Layers | TCP/IP Layers |
