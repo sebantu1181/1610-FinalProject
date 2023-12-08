@@ -37,10 +37,37 @@ Responsible for the receiver understands sent data
 ### Layer 5: Session Layer
 Responsible for stabilizes connections
 
+#### Session Layer Major Functions
+  **Dialog Control**: 
+    - The Session Layer handles the communication or dialog between two devices, ensuring that data is transmitted in an orderly and structured manner. 
+    - It specifies how long each device can communicate before handing over control.
+
+  **Session Establishment, Maintenance, and Termination**: 
+    - This layer creates sessions, keeps them active during data exchange, and terminates them when the connection is finished. 
+    - It facilitates in the coordination of the start and end of communication between applications.
+
+  **Synchromization**: 
+    - Data synchronization entails keeping data consistent during communication. 
+    - The Session Layer ensures that the sender and recipient remain in sync, preventing issues such as data duplication or out-of-order transmission.
+
+  **Checkpointing**:
+    - Checkpointing allows the Session Layer to save the current state of a session on a regular basis. 
+    - In the event of a failure, the session can be recovered from the most recent checkpoint, minimizing data loss and preserving continuation.
+
+  **Token Management**: 
+    - The Session Layer controls token-based communication, providing fair access and avoiding conflicts; it prevents two users from accessing or attempting the same critical operation at the same time.
+
+
+#### Protocols Related to Session Layer
+ > *Remote Procedure Call(RPC)*
+
+ > *NetBIOS(Network Basic Input/Output System)*
 
 <br></br>
 <br></br>
 
+#### Summary
+The Session Layer's role in maintaining sessions and ensuring coordinated communication between applications is critical for many networks. It allows for the orderly and controlled flow of data, improving the reliability and efficiency of communication in connected situations.
 
 
 ### Layer 4: Transport Layer
