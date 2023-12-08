@@ -10,14 +10,38 @@ The primary goal is to demonstrate how the various layers of communications are 
 ## The 7 Layers of OSI Model: 
 
 
+
+<br></br>
+<br></br>
+
+
+
 ### Layer 7: Application Layer
 Responsible for user interface
+
+
+<br></br>
+<br></br>
+
+
 
 ### Layer 6: Presentation Layer
 Responsible for the receiver understands sent data 
 
+
+<br></br>
+<br></br>
+
+
+
 ### Layer 5: Session Layer
 Responsible for stabilizes connections
+
+
+<br></br>
+<br></br>
+
+
 
 ### Layer 4: Transport Layer
 The Transport Layer is the fourth layer of the OSI model, its essential for assuring end-to-end communication by providing reliable and efficient data transfer services between devices. 
@@ -44,8 +68,12 @@ It manages flow control, error detection and correction, and data segmentation, 
 
 #### Summary
 The Transport Layer is essential for creating applications and protocols that demand rapid and reliable information delivery. When creating communication systems, network application developers must consider the properties of protocols such as TCP and UDP. 
+
+
 <br></br>
 <br></br>
+
+
 
 
 ### Layer 3: Network Layer
@@ -94,6 +122,9 @@ Its capacity to route and forward data between networks guarantees that communic
 Understanding the fundamentals of logical addressing, routing, and packet forwarding at this layer is critical.
 
 
+<br></br>
+<br></br>
+
 
 
 
@@ -131,6 +162,11 @@ Access Control:
 
 #### Summary
 In essence, nderstanding the Data Link Layer reveals how devices within the same local network communicate with one another, ensuring the reliable and efficient exchange of data between directly connected nodes.
+
+
+
+<br></br>
+<br></br>
 
 
 
