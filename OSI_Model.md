@@ -13,7 +13,7 @@ The primary goal is to demonstrate how the various layers of communications are 
 
 > [!TIP]
 >
-> [Application Layer](###layer-7-application-layer)
+> [Application Layer](#layer-7-application-layer)
 >
 > Presentation Layer
 >
