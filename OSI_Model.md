@@ -29,7 +29,7 @@ Responsible for user interface
 The Presentation Layer is the sixth layer of the OSI structures, focuses on the logic and syntax of data transmitted between computers. It is in charge of translating, encrypting, or compressing data so that programs on various devices may comprehend each other's formats. 
 
 #### Importance of Presentation Layer
-> Translation:
+> **Translation**:
    > The Presentation Layer interprets data between the application layer and the lower layers, ensuring that the recipient understands the sender's format. This translation may include character set conversions to ensure compatibility with various framing systems.
 
 > Encryption and Decryption:
