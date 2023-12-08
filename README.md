@@ -3,10 +3,10 @@
 ## Title of the Tutorial: 
 [TCP/IP](TCP_IP_Model.md) and [OSI Models](OSI_Model.md) and How they Apply to Networking.
 
-### The author of the tutorial: 
-Sebantu Mukanya
+### The author of the tutorial 
+**Sebantu Mukanya**
 
-## A brief summary of the purpose and content of the tutorial: 
+### Brief summary of the tutorial
 This tutorial provides a basic understanding or overview of TCP/IP and OSI Model in networking.
   * What we will be covering:
     * Protocol Layers (TCP/IP and OSI Model)
@@ -14,7 +14,7 @@ This tutorial provides a basic understanding or overview of TCP/IP and OSI Model
     * How is data communicated between client and server
     * and more
    
-## A description of the target audience
+## A description to the audience
 For those learning or searching for more information on some basic networking concepts, as well as individuals looking to plunge into networking are encouraged to explore how data travels across the internet 
 and how individuals may communicate on a global scale using a piece of technology or wire.
 
