@@ -50,6 +50,11 @@ What is Wide Area Network (WAN)?
 ### Layer 2: Data Link Layer
 Deals with Bits and Bytes
 
+
+
+
+
+
 ### Layer 1: Physical Layer
 The physical layer is the first and lowest level of the OSI model, and it deals with the physical connection between devices. It defines hardware components such as cables, wires, connectors, and so on. 
 The information is stored in bits (1s and 0s) and is transferred between devices via the node, which is a physical electronic device that is connected to a network.
@@ -84,8 +89,8 @@ common topogies include:
  * Star topology
  * Ring topology
 
-
-
+#### Summary
+The Physical layer lays the groundwork for network communication by handling the physical aspect of data transmission, from converting digital signals to managing the actual transfer over the chosen hardware.
 
 
 
