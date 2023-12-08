@@ -31,13 +31,20 @@
     * Provides network services to end-users or applications
     * Supports communication between software applications
     * Defines the protocols used by specific applications and services
-    * Examples of protocols:
+
+<details>
+<summary>Examples of protocols:</summary>
 
         * HTTP (Hypertext Transfer Protocol), 
         * FTP ( File Transfer Protocol), 
         * SMTP (Simple Mail Transfer Protocol), 
         * DNS (Domain Name System)
         * SSH (Secure Shell)
+
+<details>
+
+<br></br>
+
 
 * **Transport layer** 
     * Ensures reliable end-to-end communication between devices 
