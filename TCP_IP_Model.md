@@ -11,18 +11,3 @@
 | Data Link | Network Interface |
 | Physical | Network interface |
 
-
-| OSI Model Layers |
-|:---------------- |
-| Application |
-
-
-
-| Protocols |
-|:---------------- |
-| HTTP/HTTPS(Hypertext Transfer Protocol/Secure) |
-| SMTP(Simple Mail Transfer Protocol) |
-| POP3(Post Office Protocol) |
-| IMAP(Internet Message Access Protocol) |
-| FTP(File Transfer Protocol) |
-| DNS(Domain Name System) |
