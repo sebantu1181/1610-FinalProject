@@ -19,8 +19,26 @@ Responsible for the receiver understands sent data
 ### Layer 5: Session Layer
 Responsible for stabilizes connections
 
-### Layer 4: Transfer Layer
-Responsible for communication
+### Layer 4: Transport Layer
+The Transport Layer is the fourth layer of the OSI model, its essential for assuring end-to-end communication by providing reliable and efficient data transfer services between devices. 
+It manages flow control, error detection and correction, and data segmentation, all of which contribute to a more reliable and streamlined communication process.
+
+
+#### Responsibilities of the Transport Layer
+**Data or Packet Segmentation**: Process of breaking down data packets into smaller segments or units for transmission and reassembles them at the destination. The segmentation allows for more effecient data transfer.
+**Flow Control**: Flow control methods manage the rate at which data is transmitted between devices in order to avoid congestion and ensure that the receiving device can process the information without being overloaded.
+**Error Detection and Correction**: Applies error detection techniques to detect data corruption or loss during transmission. Furthermore, it may use error correction methods to recover from errors without retransmitting the complete message.
+**Reliable Data Transfer**: Ensures that data is delivered accurately and in the correct order. It manages acknowledgment and retransmission processes to guarantee reliable communication.
+**Multiplexing and Demultiplexing**: Multiplexing allows numerous communication streams to be handled at the same time. Each communication stream is assigned a unique identification by the Transport Layer, and demultiplexing at the receiving end ensures that data reaches the relevant application.
+
+#### Transport Layer Key Protocols
+Transmission Control Protocol(TCP)
+User Datagram Proticil(UDP)
+Stream Control Transmission Protocol(SCTP)
+
+#### Summary
+The Transport Layer is essential for creating applications and protocols that demand rapid and reliable information delivery. When creating communication systems, network application developers must consider the properties of protocols such as TCP and UDP. 
+
 
 ### Layer 3: Network Layer
 The Network Layer is the third layer of the OSI model, it is in charge of logical addressing, routing, and data forwarding between devices across many networks. 
