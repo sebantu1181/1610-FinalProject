@@ -44,7 +44,7 @@ Network Virtual Terminal:
 
 <details>
    <summary>Appllication Laayer protocols</summary>
-#### Key Protocols
+   #### Key Protocols
 
 | Protocols |
 |:---------------- |
