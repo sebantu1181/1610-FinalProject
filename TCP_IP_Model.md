@@ -35,11 +35,11 @@
    <details>
    <summary>Examples of protocols:</summary>
 
-        > HTTP (Hypertext Transfer Protocol) 
-        > FTP ( File Transfer Protocol) 
-        * SMTP (Simple Mail Transfer Protocol), 
-        * DNS (Domain Name System)
-        * SSH (Secure Shell)
+        HTTP (Hypertext Transfer Protocol) 
+        FTP ( File Transfer Protocol) 
+        SMTP (Simple Mail Transfer Protocol) 
+        DNS (Domain Name System)
+        SSH (Secure Shell)
 
    <details>
 
@@ -54,8 +54,8 @@
    <details>
    <summary>Example of protocols:</summary>
 
-        * TCP (Transmission Control Protocol), 
-        * UDP (User Datagram Protocol)
+        TCP (Transmission Control Protocol) 
+        UDP (User Datagram Protocol)
   
      </details>
 
@@ -67,10 +67,10 @@
    <details>
    <summary>Examples of protocol:</summary>
 
-        * IP (Internet Protocol), 
-        * ICMP (Internet Control Message Protocol),  
-        * IGMP (Internet Group Message Protocol), 
-        * ARP (Address Resolution Protocol)
+        IP (Internet Protocol) 
+        ICMP (Internet Control Message Protocol)  
+        IGMP (Internet Group Message Protocol) 
+        ARP (Address Resolution Protocol)
   
 </details>
 
@@ -87,9 +87,9 @@
    <details>
    <summary>Examples of protocols:</summary>
   
-      * Ethernet
-      * Wi-Fi
-      * PPP (Point-to-Point Protocol)
+      Ethernet
+      Wi-Fi
+      PPP (Point-to-Point Protocol)
 
    </details>
 
