@@ -1,4 +1,4 @@
-# How is TCP/IP different from OSI?
+# How is [TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) different from OSI?
 
 >[!IMPORTANT]
 > - TCP/IP is older than the OSI Model
