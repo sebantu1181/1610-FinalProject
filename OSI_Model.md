@@ -63,6 +63,11 @@ OSI model is known for defining how different applications communicate over conn
   * etc.
 
 #### Summary
+The Network Layer is crucial to the overall operation of the internet and other advanced networks. 
+Its capacity to route and forward data between networks guarantees that communication is smooth across diverse environments. 
+Understanding the fundamentals of logical addressing, routing, and packet forwarding at this layer is critical.
+
+
 
 
 
