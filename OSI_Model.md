@@ -147,24 +147,24 @@ Media Access Control(MCC)
 
 #### Functions of the Data Link Layer
 
-Framing: 
- - The data link layer encapsulates the data obtained from the network layer and converts it into manageable transmission units called frames.
- - These frames contain control information, addressing details, and the actual data payload.
+1. Framing: 
+   - The data link layer encapsulates the data obtained from the network layer and converts it into manageable transmission units called frames.
+   - These frames contain control information, addressing details, and the actual data payload.
 
-Addressing(MAC addressing):
- - Each device on a network has a unique Media Access Control(MAC) address assigned by the manufacturer.
- - These addresses are used by the Data Link Layer to identify nodes and deliver frames within the same local network.
+2. Addressing(MAC addressing):
+   - Each device on a network has a unique Media Access Control(MAC) address assigned by the manufacturer.
+   - These addresses are used by the Data Link Layer to identify nodes and deliver frames within the same local network.
 
-Error Detection and Correction:
- - Executes error detection procedures, allowing the detection of corrupted frames.
- - While basic error detection is performed, retransmission is often utilized for correction.
+3. Error Detection and Correction:
+   - Executes error detection procedures, allowing the detection of corrupted frames.
+   - While basic error detection is performed, retransmission is often utilized for correction.
 
-Flow Control:
- - Manages data flow between sender and receiver to avoid overloading the receiving device.
- - Flow control mechanisms ensure that data is transferred in an efficient and controlled manner.
+4. Flow Control:
+   - Manages data flow between sender and receiver to avoid overloading the receiving device.
+   - Flow control mechanisms ensure that data is transferred in an efficient and controlled manner.
 
-Access Control:
- - The Data Link Layer manages channel access and avoids collisions in shared communication channels by using access control methods such as Carrier Sense Multiple Access with Collision Detection (CSMA/CD).
+5. Access Control:
+   - The Data Link Layer manages channel access and avoids collisions in shared communication channels by using access control methods such as Carrier Sense Multiple Access with Collision Detection (CSMA/CD).
 
 
 #### Summary
