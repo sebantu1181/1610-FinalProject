@@ -38,8 +38,8 @@ Packet Forwarding:
  - This involves encapsulating data into packets, attaching the destination logical address, and transmitting them across the network.
 
 #### Network Layer Associated Protocols
-| Internet Protocol(IP): |
-|:----------------------:|
+| Internet Protocol(IP) |
+|:---------------------:|
 | Internet Control Message Protocol(ICMP) |
 | Internet Group Management Protocol(IGMP)|
 | and more. |
