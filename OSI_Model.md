@@ -248,12 +248,13 @@ The second layer in the OSI model is called the Data Link Layer, and it operates
 Its main objective is to ensure that data is reliably and error-free transmitted between two physically-connected nodes on a network.
 
 #### This layer is composed of two parts:
-Logical Link Control(LLC):
+> [!NOTE]
+> Logical Link Control(LLC):
  * Identifies network protocols
  * Performs error checking
  * Synchronizes frames
 
-Media Access Control(MCC)
+> Media Access Control(MCC)
  * Uses MAC addressses to connect devices
  * Defines premissions to transmit and receive data
 
