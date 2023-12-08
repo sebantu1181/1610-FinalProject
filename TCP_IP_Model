@@ -2,7 +2,7 @@
 
 
 | OSI Model Layers | TCP/IP Layers |
-| -----| -----|
+|:-----:|-----|
 | Application | Application |
 | Presentation | Application |
 | Session | Application |
