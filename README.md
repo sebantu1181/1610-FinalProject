@@ -16,7 +16,7 @@ This tutorial provides a basic understanding or overview of TCP/IP and OSI Model
 
 <br></br>
 
-## A description to the audience
+### A description to the audience
 For those learning or searching for more information on some basic networking concepts, as well as individuals looking to plunge into networking are encouraged to explore how data travels across the internet 
 and how individuals may communicate on a global scale using a piece of technology or wire.
 
