@@ -7,7 +7,7 @@ The primary goal is to demonstrate how the various layers of communications are 
 
 <br></br>
 <br></br>
-[Application Layer](###Layer-7:-Application-Layer)
+[Application Layer](###Application-Layer)
 
 ## The 7 Layers of OSI Model: 
 
@@ -32,7 +32,7 @@ The primary goal is to demonstrate how the various layers of communications are 
 
 
 
-### Layer 7: Application Layer
+###Application Layer
 The Application or Interface Layer is the seventh and highest layer of the OSI model, it is the interface between the network and the software application running on a device. It provides network services directly to end users and serves as the entry point for network programs.
 
 
