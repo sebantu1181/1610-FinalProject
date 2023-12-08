@@ -63,11 +63,15 @@ Responsible for stabilizes connections
 
  > *NetBIOS(Network Basic Input/Output System)*
 
-<br></br>
-<br></br>
 
 #### Summary
 The Session Layer's role in maintaining sessions and ensuring coordinated communication between applications is critical for many networks. It allows for the orderly and controlled flow of data, improving the reliability and efficiency of communication in connected situations.
+
+
+
+<br></br>
+<br></br>
+
 
 
 ### Layer 4: Transport Layer
