@@ -25,7 +25,7 @@
 
 
 ## TCP/IP also known as Internet Protocol Suite
-TCP/IP (Transmission Control Protocol/Internet Protocol) is a collection of communication protocols that allows networked devices to exchange data over the Internet. 
+[TCP/IP](https://en.wikipedia.org/wiki/Internet_protocol_suite) (Transmission Control Protocol/Internet Protocol) is a collection of communication protocols that allows networked devices to exchange data over the Internet. 
 It was created by the United States Department of Defense and serves as the basis for modern internet communication. TCP/IP is divided into four layers: Application, Transport, Network, and Network or Link Access.
 
 * **Application layer** 
