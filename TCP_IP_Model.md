@@ -32,8 +32,8 @@
     * Supports communication between software applications
     * Defines the protocols used by specific applications and services
 
-<details>
-<summary>Examples of protocols:</summary>
+   <details>
+   <summary>Examples of protocols:</summary>
 
         * HTTP (Hypertext Transfer Protocol), 
         * FTP ( File Transfer Protocol), 
@@ -41,7 +41,7 @@
         * DNS (Domain Name System)
         * SSH (Secure Shell)
 
-<details>
+   <details>
 
 <br></br>
 
