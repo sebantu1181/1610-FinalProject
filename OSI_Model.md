@@ -7,7 +7,7 @@ The primary goal is to demonstrate how the various layers of communications are 
 
 <br></br>
 <br></br>
-[Application Layer](###application-layer)
+[Application Layer](###-application-layer)
 
 ## The 7 Layers of OSI Model: 
 
