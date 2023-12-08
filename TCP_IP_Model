@@ -2,11 +2,11 @@
 
 
 | OSI Model Layers | TCP/IP Layers |
-| -----------------| --------------|
+| -----| -----|
 | Application | Application |
 | Presentation | Application |
 | Session | Application |
 | Transport | Transport |
 | Network | Network |
-| 2. Data Link | Network Interface |
-| 1. Physical | Network interface |
+| Data Link | Network Interface |
+| Physical | Network interface |
