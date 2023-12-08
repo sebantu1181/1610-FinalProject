@@ -35,8 +35,8 @@
    <details>
    <summary>Examples of protocols:</summary>
 
-        * HTTP (Hypertext Transfer Protocol), 
-        * FTP ( File Transfer Protocol), 
+        > HTTP (Hypertext Transfer Protocol) 
+        > FTP ( File Transfer Protocol) 
         * SMTP (Simple Mail Transfer Protocol), 
         * DNS (Domain Name System)
         * SSH (Secure Shell)
