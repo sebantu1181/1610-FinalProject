@@ -17,7 +17,51 @@ The primary goal is to demonstrate how the various layers of communications are 
 
 
 ### Layer 7: Application Layer
-Responsible for user interface
+The Application or Interface Layer is the seventh and highest layer of the OSI model, it is the interface between the network and the software application running on a device. It provides network services directly to end users and serves as the entry point for network programs.
+
+
+
+#### Application layer Functionality
+User Interface: 
+   - The Application Layer provides a user interface through which the user and the application can communicate.
+   - It can include graphical interfaces, command-line interfaces, or any other type of user interface.
+
+Network Services: 
+   - It provides applications with network services such as email, file transfer, and network browsing.
+   - These services facilitate communication and data sharing between network devices. 
+
+Communication Protocols: 
+   - The Application Layer facilitates communication between programs by utilizing various communication protocols.
+   - Examples include HTTP for web browsing, SMTP for email, and FTP for file transfer.
+
+Data Exchange and Encryption: 
+   - This layer facilitates exchange of information between apps.
+   - It can also manage data encryption and decryption, ensuring safe connection.
+
+Network Virtual Terminal: 
+   - The Application Layer provides a network virtual terminal, which allows devices to log into other devices on the network and remotely execute commands.
+
+
+
+#### Key Protocols
+|:---------------- |
+| > HTTP/HTTPS(Hypertext Transfer Protocol/Secure) |
+
+| > SMTP(Simple Mail Transfer Protocol) |
+
+| > POP3(Post Office Protocol) |
+
+| > IMAP(Internet Message Access Protocol) |
+
+| > FTP(File Transfer Protocol) |
+
+| > DNS(Domain Name System) |
+
+
+
+
+#### Summary
+The Application Layer serves as the interface between users and the network. It ensures application communication across the network, provides a consistent interface, and supports a wide range of network services. It is critical in making many different apps accessible and useable in a networked setting.
 
 
 <br></br>
