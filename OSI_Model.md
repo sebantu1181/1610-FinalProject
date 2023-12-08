@@ -90,7 +90,7 @@ common topogies include:
  * Ring topology
 
 #### Summary
-The Physical layer lays the groundwork for network communication by handling the physical aspect of data transmission, from converting digital signals to managing the actual transfer over the chosen hardware.
+The Physical layer outlines the framework for network connection by handling the physical aspects of data transmission, from translating digital signals to controlling the actual transfer across the specified hardware.
 
 
 
