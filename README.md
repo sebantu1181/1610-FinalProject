@@ -2,8 +2,6 @@
 
 ##  [TCP/IP](TCP_IP_Model.md) and [OSI Models](OSI_Model.md), How they Apply to Networking.
 
-<br></br>
-
 ### The Author: Sebantu Mukanya
 
 <br></br>
