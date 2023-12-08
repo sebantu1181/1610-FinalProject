@@ -32,19 +32,19 @@ The Presentation Layer is the sixth layer of the OSI structures, focuses on the 
 > **Translation**:
    > The Presentation Layer interprets data between the application layer and the lower layers, ensuring that the recipient understands the sender's format. This translation may include character set conversions to ensure compatibility with various framing systems.
 
-> Encryption and Decryption:
+> **Encryption and Decryption**:
    > Data transmission security is extremely important. Hence, The Presentation Layer encrypts data before transmission and decrypt it at the receiving end.
    > This helps in protecting sensitive information from unauthorized access during communication. 
 
-> Compression:
+> **Compression**:
    > The Presentation Layer can compress data before transmission and decompress it upon reception to optimize bandwidth utilization.
    > This minimizes the amount of data sent across the network, improving overall efficiency. 
 
-> Format Syntax:
+> **Format Syntax**:
    > The layer is concerned with data syntax, such as how integers, floating-point numbers, and strings are represented.
    >  It ensures that application layer data is delivered in a consistent and intelligible manner.
 
-> Data Structure:
+> **Data Structure**:
    > Different data structures may be used by different systems.
    > The Presentation Layer unifies various structures, allowing data to be rendered consistently throughout the network.
 
