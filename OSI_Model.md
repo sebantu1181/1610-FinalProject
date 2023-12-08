@@ -37,9 +37,9 @@ Packet Forwarding:
  - Once the routing decision is made, the Network Layer forwards data packets from one device to another.
  - This involves encapsulating data into packets, attaching the destination logical address, and transmitting them across the network.
 
-#### Network Layer Associated Protocols
+#### | Network Layer Associated Protocols |
+|:---------------------------------------:|
 | Internet Protocol(IP) |
-|:---------------------:|
 | Internet Control Message Protocol(ICMP) |
 | Internet Group Management Protocol(IGMP)|
 | and more. |
