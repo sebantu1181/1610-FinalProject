@@ -37,7 +37,9 @@ It manages flow control, error detection and correction, and data segmentation, 
 
 #### Transport Layer Key Protocols
  > *Transmission Control Protocol(TCP)*
+
  > *User Datagram Proticil(UDP)*
+
  > *Stream Control Transmission Protocol(SCTP)*
 
 #### Summary
