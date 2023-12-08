@@ -35,7 +35,7 @@ Responsible for the receiver understands sent data
 
 
 ### Layer 5: Session Layer
-Responsible for stabilizes connections
+The Session Layer is the fifth layer of the OSI model, it is in charge of establishing, managing, and terminating sessions or connections between applications. It guarantees that data interchange between programs is fluid, with features that help in coordination and synchronization.
 
 #### Session Layer Major Functions 
 **Dialog Control**: 
