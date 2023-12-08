@@ -10,3 +10,8 @@
 | Network | Network |
 | Data Link | Network Interface |
 | Physical | Network interface |
+
+
+| OSI Model Layers | TCP/IP Layers |
+|:-----:|:-----:|
+| Application | Application |
