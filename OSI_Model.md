@@ -44,8 +44,8 @@ Network Virtual Terminal:
 
 
 #### Key Protocols
-|:---------------- |
 | > HTTP/HTTPS(Hypertext Transfer Protocol/Secure) |
+|:---------------- |
 
 | > SMTP(Simple Mail Transfer Protocol) |
 
