@@ -1,6 +1,6 @@
 # 1610-FinalProject
 
-##  [TCP/IP](TCP_IP_Model.md) and [OSI Models](OSI_Model.md), How they Apply to Networking.
+##  [TCP/IP](TCP_IP_Model.md) and [OSI Models](OSI_Model.md) and How they Apply to Networking.
 
 ### The Author: Sebantu Mukanya
 
