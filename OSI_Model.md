@@ -36,11 +36,11 @@ It manages flow control, error detection and correction, and data segmentation, 
 **Multiplexing and Demultiplexing**: Multiplexing allows numerous communication streams to be handled at the same time. Each communication stream is assigned a unique identification by the Transport Layer, and demultiplexing at the receiving end ensures that data reaches the relevant application.
 
 #### Transport Layer Key Protocols
-*Transmission Control Protocol(TCP)*
+ > *Transmission Control Protocol(TCP)*
 
-*User Datagram Proticil(UDP)*
+ > *User Datagram Proticil(UDP)*
 
-*Stream Control Transmission Protocol(SCTP)*
+ > *Stream Control Transmission Protocol(SCTP)*
 
 #### Summary
 The Transport Layer is essential for creating applications and protocols that demand rapid and reliable information delivery. When creating communication systems, network application developers must consider the properties of protocols such as TCP and UDP. 
