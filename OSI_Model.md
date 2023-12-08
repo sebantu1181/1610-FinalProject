@@ -23,32 +23,72 @@ Responsible for stabilizes connections
 Responsible for communication
 
 ### Layer 3: Network Layer
+The Network Layer is the third layer of the OSI model, it is in charge of logical addressing, routing, and data forwarding between devices across many networks. 
+Its fundamental purpose is to enable end-to-end communication and to make data packet travel between source and destination devices efficiently.
+
+#### Key Functions of Network Layer
+Logical Addressing: 
+ - The Network Layer assigns logical addresses, such as IP (Internet Protocol) addresses, to devices in a network.
+ - These addresses are used for uniquely identifying devices and routing data to the correct destination.
+Routing:
+ - Routing involves determining the best path for data to travel from the source to the destination across multiple interconnected networks.
+ - Routers, operating at this layer, make decisions based on logical addressing and network topology.
+Packet Forwarding:
+ - Once the routing decision is made, the Network Layer forwards data packets from one device to another.
+ - This involves encapsulating data into packets, attaching the destination logical address, and transmitting them across the network.
+
 
 OSI model is known for defining how different applications communicate over connected networks
 * Including: 
-  * LAN (Local Area Network) 
+  * LAN (Local Area Network)
+    > A local area network (LAN) connects multiple or a group of network-connected devices with a limited range or localized region, such as a coffee shop, library, or school.
+    > This network is mostly used for sharing hardware resources such as computers, printers, televisions, and other devices. In comparison to MAN and WAN, LAN has a greater data transmission speed and implements private network addresses for connectivity and data exchange. It also uses cable for network connection, which reduces mistake and maintains data security.
   * MAN (Metropolitan Area Network)
+    > A metropolitan area network connects small areas or regions like cities or towns. This network is larger than a LAN but not as large as a WAN. 
+    > MAN can be used to connect numerous LAN networks to form a metropolitan range; for example, a MAN network can connect all of a company's branches in the same city. 
+    > The networked region is typically connected by wired networks, such as optical cables and connections.
   * WAN (Wide Area Network)
+    > A WAN connects devices across extensive areas such as a state, country, or continent. The WAN network is larger than the LAN and MAN networks, its connection is usually wireless since it uses radio towers for communication, and the geographical area is usually made up of multiple interconnected LAN and MAN networks. 
+    > Because of the large distance covered, the speed of WAN data transfer is slower than that of LAN and MAN.
   * etc.
 
-
-What is Local Area Network (LAN)?
-> A local area network (LAN) connects multiple or a group of network-connected devices with a limited range or localized region, such as a coffee shop, library, or school. 
-> This network is mostly used for sharing hardware resources such as computers, printers, televisions, and other devices. In comparison to MAN and WAN, LAN has a greater data transmission speed and implements private network addresses for connectivity and data exchange. It also uses cable for network connection, which reduces mistake and maintains data security.
-
-What is Metropolitan Area Network (MAN)?
-> A metropolitan area network connects small areas or regions like cities or towns. This network is larger than a LAN but not as large as a WAN. 
-> MAN can be used to connect numerous LAN networks to form a metropolitan range; for example, a MAN network can connect all of a company's branches in the same city. 
-> The networked region is typically connected by wired networks, such as optical cables and connections.
-
-What is Wide Area Network (WAN)?
-> A WAN connects devices across extensive areas such as a state, country, or continent. The WAN network is larger than the LAN and MAN networks, its connection is usually wireless since it uses radio towers for communication, and the geographical area is usually made up of multiple interconnected LAN and MAN networks. 
-> Because of the large distance covered, the speed of WAN data transfer is slower than that of LAN and MAN.
 
 
 
 ### Layer 2: Data Link Layer
+The second layer in the OSI model is called the Data Link Layer, and it operates as a link between the Physical Layer and the upper layers. 
+Its main objective is to ensure that data is reliably and error-free transmitted between two physically-connected nodes on a network.
 
+#### This layer is composed of two parts:
+Logical Link Control(LLC):
+ * Identifies network protocols
+ * Performs error checking
+ * Synchronizes frames
+Media Access Control(MCC)
+ * Uses MAC addressses to connect devices
+ * Defines premissions to transmit and receive data
+
+
+#### Functions of the Data Link Layer
+
+Framing: 
+ - The data link layer encapsulates the data obtained from the network layer and converts it into manageable transmission units called frames.
+ - These frames contain control information, addressing details, and the actual data payload.  
+Addressing(MAC addressing):
+ - Each device on a network has a unique Media Access Control(MAC) address assigned by the manufacturer.
+ - These addresses are used by the Data Link Layer to identify nodes and deliver frames within the same local network.
+Error Detection and Correction:
+ - Executes error detection procedures, allowing the detection of corrupted frames.
+ - While basic error detection is performed, retransmission is often utilized for correction.
+Flow Control:
+ - Manages data flow between sender and receiver to avoid overloading the receiving device.
+ - Flow control mechanisms ensure that data is transferred in an efficient and controlled manner.
+Access Control:
+ - The Data Link Layer manages channel access and avoids collisions in shared communication channels by using access control methods such as Carrier Sense Multiple Access with Collision Detection (CSMA/CD).
+
+
+#### Summary
+In essence, nderstanding the Data Link Layer reveals how devices within the same local network communicate with one another, ensuring the reliable and efficient exchange of data between directly connected nodes.
 
 
 
