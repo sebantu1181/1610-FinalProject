@@ -6,7 +6,6 @@ The primary goal is to demonstrate how the various layers of communications are 
 
 
 <br></br>
-<a href="https://en.wikipedia.org/wiki/OSI_model" target="_blank">OSI Model WIkip</a>
 [<< Back to README](README.md)
 <br></br>
 
