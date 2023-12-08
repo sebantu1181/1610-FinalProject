@@ -43,8 +43,7 @@ Network Virtual Terminal:
 
 
 <details>
-   <summary>Appllication Laayer protocols</summary>
-   #### Key Protocols
+   <summary>Application Layer protocols</summary>
 
 | Protocols |
 |:---------------- |
