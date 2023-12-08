@@ -5,14 +5,13 @@ The OSI model consists of seven layers that display how data is sent and receive
 The primary goal is to demonstrate how the various layers of communications are layered over one another, starting with physical cabling and concluding with the application that interacts with users or other devices on a network. 
 
 
-
+<br></br>
+<br></br>
 
 
 ## The 7 Layers of OSI Model: 
 
 
-
-<br></br>
 <br></br>
 
 
