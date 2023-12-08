@@ -125,6 +125,10 @@ The Presentation Layer guarantees that data is displayed in a format that is glo
 
 
 <br></br>
+
+> [!TIP]
+> [RETURN TOP](#what-is-the-osi-model)
+
 <br></br>
 
 
