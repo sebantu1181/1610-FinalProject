@@ -27,7 +27,7 @@
 ## TCP/IP also known as Internet Protocol Suite
 
 
-* Application layer 
+* **Application layer** 
     * Provides network services to end-users or applications
     * Supports communication between software applications
     * Defines the protocols used by specific applications and services
@@ -39,7 +39,7 @@
         * DNS (Domain Name System)
         * SSH (Secure Shell)
 
-* Transport layer 
+* **Transport layer** 
     * Ensures reliable end-to-end communication between devices 
     * Manages flow control, error detection, and correction
     * Responsible for segmentation and reassembly of data
@@ -48,7 +48,7 @@
         * TCP (Transmission Control Protocol), 
         * UDP (User Datagram Protocol)
 
-* Network or Internet layer 
+* **Network or Internet layer**
     * Handles the routing of data packets between networks
     * Provides logical addresses using IP addresses
     * Responsible for fragmentation and reassembly of data packets
@@ -59,7 +59,7 @@
         * IGMP (Internet Group Message Protocol), 
         * ARP (Address Resolution Protocol)
 
-* Network Access or Link layer
+* **Network Access or Link layer**
     * Responsible for the physical connection between devices on the same local network
     * Manages the transmission of data frames over the local network
     * Addresses devices using MAC (Media Access Control) addresses
@@ -74,9 +74,9 @@
 
 
 #### Summary
+The TCP/IP paradigm consists of four layers: the Network Access Layer for local network connections, the Network Layer for logical addressing and routing, the Transport Layer for end-to-end communication, and the Application Layer for user applications and services. These layers collaborate to allow for successful communication in computer networks.
 
 
 
-
-
+[Next: OSI Model](OSI_Model.md)
 
