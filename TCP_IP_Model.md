@@ -59,6 +59,8 @@
   
      </details>
 
+<br></br>
+
 * **Network or Internet layer**
     * Handles the routing of data packets between networks
     * Provides logical addresses using IP addresses
