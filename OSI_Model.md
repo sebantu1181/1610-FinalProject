@@ -30,9 +30,11 @@ Its fundamental purpose is to enable end-to-end communication and to make data p
 Logical Addressing: 
  - The Network Layer assigns logical addresses, such as IP (Internet Protocol) addresses, to devices in a network.
  - These addresses are used for uniquely identifying devices and routing data to the correct destination.
+
 Routing:
  - Routing involves determining the best path for data to travel from the source to the destination across multiple interconnected networks.
  - Routers, operating at this layer, make decisions based on logical addressing and network topology.
+
 Packet Forwarding:
  - Once the routing decision is made, the Network Layer forwards data packets from one device to another.
  - This involves encapsulating data into packets, attaching the destination logical address, and transmitting them across the network.
