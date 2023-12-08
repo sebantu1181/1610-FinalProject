@@ -7,7 +7,7 @@ The primary goal is to demonstrate how the various layers of communications are 
 
 <br></br>
 <br></br>
-[Application Layer](#layer-7-application-layer)
+
 
 ## The 7 Layers of OSI Model: 
 
@@ -15,17 +15,17 @@ The primary goal is to demonstrate how the various layers of communications are 
 >
 > [Application Layer](#layer-7-application-layer)
 >
-> Presentation Layer
+> [Presentation Layer](#layer-6-presentation-layer)
 >
-> Session Layer
+> [Session Layer](#layer-5-session-layer)
 >
-> Transport Layer
+> [Transport Layer](#layer-4-transport-layer)
 >
-> Network Layer
+> [Network Layer](#layer-3-network-link-layer)
 >
-> Data Link  Layer
+> [Data Link  Layer](#layer-2-data-link-layer)
 >
-> Physical Layer  
+> [Physical Layer](#layer-1-physical-layer)
 
 
 <br></br>
