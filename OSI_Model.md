@@ -48,8 +48,6 @@ What is Wide Area Network (WAN)?
 
 
 ### Layer 2: Data Link Layer
-Deals with Bits and Bytes
-
 
 
 
