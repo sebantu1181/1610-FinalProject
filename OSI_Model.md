@@ -68,7 +68,7 @@ Its functions involves deciding how physical connections to the network are esta
   * These can be electrical voltages, light pulses, or radio signals
   * The modulation technique is used to encode bits into signals
 * Transmission modes: Defines
-  how data is transmitted between devices. Common nodes include:
+  how data is transmitted between devices. Common modes include:
   * simplex: one-way communication
   * Half-duplex: two-way communication, but not simultaneous
   * Full-duplex: two-way and simultaneous communication  
