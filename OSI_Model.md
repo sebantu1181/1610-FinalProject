@@ -25,11 +25,11 @@ It manages flow control, error detection and correction, and data segmentation, 
 
 
 #### Responsibilities of the Transport Layer
-**Data or Packet Segmentation**: Process of breaking down data packets into smaller segments or units for transmission and reassembles them at the destination. The segmentation allows for more effecient data transfer.
+ > **Data or Packet Segmentation**: Process of breaking down data packets into smaller segments or units for transmission and reassembles them at the destination. The segmentation allows for more effecient data transfer.
 
-**Flow Control**: Flow control methods manage the rate at which data is transmitted between devices in order to avoid congestion and ensure that the receiving device can process the information without being overloaded.
+ > **Flow Control**: Flow control methods manage the rate at which data is transmitted between devices in order to avoid congestion and ensure that the receiving device can process the information without being overloaded.
 
-**Error Detection and Correction**: Applies error detection techniques to detect data corruption or loss during transmission. Furthermore, it may use error correction methods to recover from errors without retransmitting the complete message.
+ > **Error Detection and Correction**: Applies error detection techniques to detect data corruption or loss during transmission. Furthermore, it may use error correction methods to recover from errors without retransmitting the complete message.
 
 **Reliable Data Transfer**: Ensures that data is delivered accurately and in the correct order. It manages acknowledgment and retransmission processes to guarantee reliable communication.
 
