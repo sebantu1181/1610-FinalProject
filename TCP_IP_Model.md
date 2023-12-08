@@ -20,6 +20,9 @@
 | Physical | Network Access |
 
 
+<br></br>
+<br></br>
+
 
 ## TCP/IP also known as Internet Protocol Suite
 
@@ -65,6 +68,9 @@
       * Ethernet
       * Wi-Fi
       * PPP (Point-to-Point Protocol)
+
+<br></br>
+<br></br>
 
 
 #### Summary
