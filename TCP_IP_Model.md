@@ -1,7 +1,7 @@
 # How is TCP/IP different from OSI?
 
 - TCP/IP is older than the OSI Model
-- a Key difference between the models is that TCP/IP is simppler, collapsing several layers OSI layers into one
+- a Key difference between the models is that TCP/IP is simpler, collapsing several layers OSI layers into one
 - Session, presentation, and application layers of the OSI model are combined into one Application Layer of TCP/IP
 - Physical and data link layers of the OSI model are combined into Network Access Layer of TCP/IP 
 
