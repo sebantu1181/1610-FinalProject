@@ -50,31 +50,48 @@
     * Ensures reliable end-to-end communication between devices 
     * Manages flow control, error detection, and correction
     * Responsible for segmentation and reassembly of data
-    * Example of protocols:
+
+   <details>
+   <summary>Example of protocols:</summary>
 
         * TCP (Transmission Control Protocol), 
         * UDP (User Datagram Protocol)
+  
+     </details>
 
 * **Network or Internet layer**
     * Handles the routing of data packets between networks
     * Provides logical addresses using IP addresses
     * Responsible for fragmentation and reassembly of data packets
-    * Examples of protocol:
+ 
+   <details>
+   <summary>Examples of protocol:</summary>
 
         * IP (Internet Protocol), 
         * ICMP (Internet Control Message Protocol),  
         * IGMP (Internet Group Message Protocol), 
         * ARP (Address Resolution Protocol)
+  
+</details>
+
+
+<br></br>
+
+
 
 * **Network Access or Link layer**
     * Responsible for the physical connection between devices on the same local network
     * Manages the transmission of data frames over the local network
     * Addresses devices using MAC (Media Access Control) addresses
-    * Examples of protocols:
+ 
+   <details>
+   <summary>Examples of protocols:</summary>
   
       * Ethernet
       * Wi-Fi
       * PPP (Point-to-Point Protocol)
+
+   </details>
 
 <br></br>
 <br></br>
