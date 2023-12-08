@@ -62,6 +62,7 @@ OSI model is known for defining how different applications communicate over conn
     > Because of the large distance covered, the speed of WAN data transfer is slower than that of LAN and MAN.
   * etc.
 
+#### Summary
 
 
 
