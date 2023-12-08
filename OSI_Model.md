@@ -21,7 +21,7 @@ The primary goal is to demonstrate how the various layers of communications are 
 >
 > [Transport Layer](#layer-4-transport-layer)
 >
-> [Network Layer](#layer-3-network-link-layer)
+> [Network Layer](#layer-3-network-layer)
 >
 > [Data Link  Layer](#layer-2-data-link-layer)
 >
