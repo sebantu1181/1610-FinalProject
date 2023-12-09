@@ -106,7 +106,5 @@ The TCP/IP paradigm consists of four layers: the Network Access Layer for local 
 <br></br>
 [Back: README](README.md)
 
-<br></br>
-
 [Next: OSI Model](OSI_Model.md)
-
+<br></br>
