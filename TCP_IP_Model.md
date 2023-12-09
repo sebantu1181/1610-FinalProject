@@ -103,7 +103,9 @@ It was created by the United States Department of Defense and serves as the basi
 #### Summary
 The TCP/IP paradigm consists of four layers: the Network Access Layer for local network connections, the Network Layer for logical addressing and routing, the Transport Layer for end-to-end communication, and the Application Layer for user applications and services. These layers collaborate to allow for successful communication in computer networks.
 
+[Back: README](README.md)
 
+<br></br>
 
 [Next: OSI Model](OSI_Model.md)
 
